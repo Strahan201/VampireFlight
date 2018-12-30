@@ -1,0 +1,9 @@
+name: VampireFlight
+author: Strahan
+main: com.sylvcraft.VampireFlight
+version: 1.0
+description: Turns you into a bat when you fly if you are a vampire
+depends: [LibsDisguises]
+commands:
+  vampfly:
+    description: Plugin command

@@ -1,0 +1,13 @@
+messages:
+  bat-on: '&aYou appear to others as a bat right now.'
+  bat-off: '&aYou have reverted back to human appearance.'
+  phantom-on: '&aYou appear to others as a phantom right now.'
+  phantom-off: '&aYou have reverted back to human appearance.'
+  vampfly-on: '&aYou can now fly by double jumping.'
+  vampfly-off: '&aDouble-jump flight disabled.'
+  access-denied: '&cAccess denied!'
+  help: '&eUsage: /vampfly [allowflight] [reload]%br%%br%&6allowflight &8- &aToggles double-jump flight ability%br%&6reload &8- &aReloads config'
+  reloaded: '&aPlugin config reloaded!'
+  allow-flight-on: '&aVampire players can now fly with double-jump via this plugin.'
+  allow-flight-off: '&aVampire players can no longer fly with double-jump via this plugin.'
+  
